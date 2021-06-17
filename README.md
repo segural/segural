@@ -6,5 +6,5 @@
 
 Aquí algunas ideas para comenzar:
 
-- 🔭 Actualmente trabajo en un proyecto de e-Commerce
-- 🌱 Estoy estudiando para ser programador FullStack en Digital House
+- 🔭 Deployando proyectos para portfolio.
+- 🌱 Soy Desarrollador Web FullStack, graduado en Digital House
