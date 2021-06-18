@@ -6,18 +6,22 @@
 **segural/segural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here we have a summary of me:
+- Here we have a summary of me:
 
-let ME = {
-   name: "Luciano",
-   nick: "Lucho",
-   Skills: ["NodeJS", "HTML", "CSS", "React", "JavaScript", "DataBases", "AJAX", "APIs"],
-   Comming_soon: ["VueJS", "MongoDB", "Boostrap", "......"]
+   ```javascript
+   let ME = {
+   name: Luciano,
+   nick: Lucho,
+   Skills: [NodeJS, HTML, CSS, React, JavaScript, DataBases, AJAX, APIs],
+   Comming_soon: [VueJS, MongoDB, Boostrap, ......]
    }
-   
-[My Linkedin](https://www.linkedin.com/in/lugabsegura/)
+   ```
 
-[My E-Mail](luciano.g.segura@gmail.com)
+- You can visit me or contact:
+   
+   [My Linkedin](https://www.linkedin.com/in/lugabsegura/)
+
+   [My E-Mail](luciano.g.segura@gmail.com)
 
 
 - 🔭 Deploying.......
