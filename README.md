@@ -1,12 +1,24 @@
 ### Hi everyone. I'm Luciano 👋
 
-### I proud to say I'm a Fullstack web Developer.
+### I proud to say I'm a Fullstack Web Developer.
 
 <!--
 **segural/segural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Aquí algunos comentarios de mi vida actual como developer::
+Here we have a summary of me:
+
+let ME = {
+   name: "Luciano",
+   nick: "Lucho",
+   Skills: ["NodeJS", "HTML", "CSS", "React", "JavaScript", "DataBases", "AJAX", "APIs"],
+   Comming_soon: ["VueJS", "MongoDB", "Boostrap", "......"]
+   }
+   
+[My Linkedin](https://www.linkedin.com/in/lugabsegura/)
+
+[My E-Mail](luciano.g.segura@gmail.com)
+
 
 - 🔭 Deployando proyectos para portfolio.
 - 🌱 Soy Desarrollador Web FullStack, graduado en Digital House
