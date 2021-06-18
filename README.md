@@ -9,7 +9,7 @@
 - Here we have a summary of me:
 
    ```javascript
-   let ME = {
+   let me = {
    name: Luciano,
    nick: Lucho,
    skills: [NodeJS, HTML, CSS, React, JavaScript, DataBases, AJAX, APIs],
