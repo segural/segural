@@ -20,9 +20,8 @@ let ME = {
 [My E-Mail](luciano.g.segura@gmail.com)
 
 
-- 🔭 Deployando proyectos para portfolio.
-- 🌱 Soy Desarrollador Web FullStack, graduado en Digital House
-- Imágenes de mi ultimo proyecto. Es un proyecto de práctica realizado para el curso:
+- 🔭 Deploying.......
+- Here some pictures of my last Project:
 
 <b>-HOME:</b>
 
