@@ -21,7 +21,7 @@
    
    [My Linkedin](https://www.linkedin.com/in/lugabsegura/)
 
-   [My E-Mail](luciano.g.segura@gmail.com)
+   [My E-Mail](MailTo:luciano.g.segura@gmail.com)
 
 
 - 🔭 Deploying.......
