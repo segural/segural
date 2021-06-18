@@ -1,5 +1,7 @@
 ### Hi everyone. I'm Luciano 👋
 
+### I proud to say I'm a Fullstack web Developer.
+
 <!--
 **segural/segural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
