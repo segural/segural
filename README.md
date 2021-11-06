@@ -12,8 +12,8 @@
    let me = {
    name: Luciano,
    nick: Lucho,
-   skills: [NodeJS, HTML, CSS, React, JavaScript, DataBases, AJAX, APIs],
-   commingSoon: [VueJS, MongoDB, Boostrap, ......]
+   skills: [NodeJS, HTML, CSS, React, JavaScript, DataBases, AJAX, APIs, Boostrap],
+   commingSoon: [VueJS, MongoDB, ......]
    }
    ```
 
