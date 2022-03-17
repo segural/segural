@@ -32,7 +32,7 @@
 
 <b>-HOME AND USER PROFILE</b>>
 
-   <img src="https://user-images.githubusercontent.com/75506631/122454652-031f1980-cf82-11eb-9211-424f7e52a841.jpg" width="350" height="500"> <img src="https://user-images.githubusercontent.com/75506631/122454948-4083a700-cf82-11eb-8928-0aa575e383fb.jpg" width="350" height="500">
+   <img src="https://user-images.githubusercontent.com/75506631/122454652-031f1980-cf82-11eb-9211-424f7e52a841.jpg" width="400" height="550"> <img src="https://user-images.githubusercontent.com/75506631/122454948-4083a700-cf82-11eb-8928-0aa575e383fb.jpg" width="400" height="550">
         
 <b>NEW PRODUCT AND ADMIN'S DASHBOARD:</b>
 
