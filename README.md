@@ -28,7 +28,7 @@
 - Here some pictures of my Projects:
 
 <h1><i>CASA DIGITAL</i></h1>
-<h2>E-Commerce for Courses(Like UDEMY) - Project</h2>
+<h2>E-Commerce(Like UDEMY) - Project</h2>
 
 <b>-HOME AND USER PROFILE</b>
 
